@@ -38,8 +38,6 @@
 
 ![Clone Repository Step 2](iamges/image-3.png)
 
-
-- Paste the copied repository URL.
 - Select a destination folder on your local machine.
 
 

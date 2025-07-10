@@ -34,7 +34,7 @@
 
 - In VS Code:
   - **Step 1:** Click on **Clone Repository**.
-  - **Step 2:** Enter your GitHub credentials if prompted.
+  - **Step 2:** Paste copied link from above (Clone Repository - (Step-1),Enter your GitHub credentials if prompted.
 
 ![Clone Repository Step 2](iamges/image-3.png)
 

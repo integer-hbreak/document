@@ -1,4 +1,4 @@
-# 📖 How to Solve Assignment (GitHub Classroom)
+# 📖 How to Submit Assignment (GitHub Classroom)
 
 
 ---
